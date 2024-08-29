@@ -1,0 +1,25 @@
+Which languages are used to build some social media and all other apps
+
+Linkedin-Java
+Facebook-PHP
+Instagram-Python
+what's app-Erlang
+twitter-C and C++
+Messenger-PHP
+Phone pe-HTML,jQuery
+Google pay-Dart programming language
+Paytm-Java,PHP,Ruby,SQL,PYTHON
+Amazon-Java,Python
+Flipkart-PHP
+Jio mart-Java,CSS
+Zomato-Kotlin
+Swiggy-Kotlin
+Ola-Java,python
+Rapido-java
+Uber-Python
+Amazon Prime-Java and Python
+Netflix-Python
+Aha-Python
+Zee5-PHP
+Google-GO
+Chrome-C, C++, Assembly, HTML, Java
